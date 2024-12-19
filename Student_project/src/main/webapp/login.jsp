@@ -85,7 +85,7 @@
             <button type="submit">Login</button>
         </form>
         <div class="footer">
-            <span><a href="forgotpassword.jsp">Forget password?</a></span>
+            <span><a href="forgotpassword.jsp">Forgot password?</a></span>
             <br>
             <span>Don't have an account? <a href="applicationform.jsp">Sign up</a></span>
         </div>
